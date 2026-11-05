@@ -1,3 +1,7 @@
 DOCUMENTACION DEL PROYECTO
 ==========================
 Modulo principal: pendiente de documentar.
+
+Funcionalidad: saludo de bienvenida (codigo simulado)
+  function saludar(nombre) { return "Hola, " + nombre + "!"; }
+  Uso: saludar("Owen")  ->  Hola, Owen!
