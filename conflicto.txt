@@ -1,0 +1,3 @@
+Linea 1: Inicio del archivo
+Linea 2: Contenido original del proyecto
+Linea 3: Fin del archivo
